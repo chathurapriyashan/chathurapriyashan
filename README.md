@@ -1,8 +1,8 @@
-![MacBook Air - 1](https://github.com/user-attachments/assets/9989cb47-7b3b-4cd6-8d4c-d32e12939803)
-# 👋 Hi there! I'm Chathura Priyashan
-## 🚀 Backend Developer | Frontend Enthusiast
+![chathurapriyashan](https://github.com/user-attachments/assets/0cc669de-89ba-41f3-a14b-db5049f6b18a)
 
-### 💡 I craft dynamic web experiences with:
+### Backend Developer | Frontend Enthusiast
+
+### I craft dynamic web experiences with:
 
 React & Next.js for seamless UIs 🌟
 JavaScript, CSS, SASS, & HTML to make ideas come alive 🎨
