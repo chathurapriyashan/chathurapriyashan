@@ -16,5 +16,4 @@ To build innovative and efficient solutions while having a ton of fun along the 
 🔗 Let’s connect, collaborate, and create something amazing together!
 
 
-
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
