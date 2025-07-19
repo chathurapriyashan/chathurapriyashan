@@ -16,4 +16,4 @@ To build innovative and efficient solutions while having a ton of fun along the 
 🔗 Let’s connect, collaborate, and create something amazing together!
 
 
-![snake gif](https://github.com/chathurapriyashan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/chathurapriyashan/chathurapriyashan/blob/output/github-contribution-grid-snake.svg)
